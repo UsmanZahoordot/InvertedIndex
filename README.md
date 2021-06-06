@@ -78,10 +78,3 @@ If no result is found print
 No result found
 
 This module should also work on both indexes (compressed and uncompressed).
-# Submissions: 
-Submissions will be on google classroom, you will only submit your code (one.py file no jupyter notebook).
-
-# Implementation details:
-You are free you use any library to implement your work. 
-
-All the mandatory requirements of assignment are given above, you can make valid assumption for any detail that is not given above. 
